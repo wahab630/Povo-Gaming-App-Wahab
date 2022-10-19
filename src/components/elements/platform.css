@@ -1,0 +1,14 @@
+.plat{
+    background-image: url('../../media/platformbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.platfoam-img{
+    max-width: 100%;
+    height: auto;
+    
+}
+.btn{
+    background-color: #c62828;
+    color: #e0e0e0;
+}

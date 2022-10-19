@@ -1,0 +1,15 @@
+.exclusive{
+    background-image: url('../../media/protectedbg.png');
+    background-size: cover;
+    
+    background-position: center;
+   
+}
+.multi-img{
+    width: 250px;
+    height: 350px;
+}
+.e-btn{
+    width: 30%;
+    margin: auto;
+}

@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #2D061BFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar a:hover{
+    color: rgba(255, 4, 4, 0.843);
+}
+.logo{
+    height: 46px;
+    width: 40px;
+}
+.navbar a{
+    font-size: 1rem;
+    text-transform: capitalize;
+    color: white;
+}
+.navbar a:active{
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}

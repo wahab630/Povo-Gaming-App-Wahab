@@ -1,0 +1,14 @@
+.footer-logo{
+    width: 70px;
+    /* height: 136px; */
+}
+.footercolor{
+    background-color:#2D061BFF ;
+    color: white;
+    
+}
+.footer-line{
+    border: 1px solid white ;
+    font-weight: bold;
+    color: white;
+}

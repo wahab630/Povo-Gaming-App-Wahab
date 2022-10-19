@@ -1,0 +1,21 @@
+.benefits-img{
+    max-width: 100%;
+    height: auto;
+}
+.Benefit{
+    background-image: url('../../media//protectedbg.png');
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.Benefit ul {
+    list-style: square;
+    margin-top: 40px;
+}
+.Benefit h5 {
+    font-weight: 600;
+    color: #fff;
+    margin-top: 30px;
+}

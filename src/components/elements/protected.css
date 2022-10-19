@@ -1,0 +1,14 @@
+.protected{
+    background-image: url('../../media/protectedbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.color{
+    color: darkred;
+}
+.protected-img{
+    max-width: 80%;
+    height: auto;
+}

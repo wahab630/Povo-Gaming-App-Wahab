@@ -1,0 +1,9 @@
+.Vision-bg{
+    background-image: url('../../media/visionbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

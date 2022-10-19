@@ -1,0 +1,12 @@
+.mission-bg{
+    background-image: url('../../media/platformbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.mission-img{
+    max-width: 100%;
+    height: auto;
+}

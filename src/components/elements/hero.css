@@ -1,0 +1,63 @@
+.hero-bg{
+    background-image: url('../../media/hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero-button {
+  background-color: #ffffff;
+  font-weight: 600;
+  color: #8b0000;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  padding: 12px 50px;
+  margin-top: 20px;
+}
+.hero-section{
+    padding-top: 210px;
+    padding-bottom: 10px;
+}
+.hero-h{
+    font-size: 53px;
+    text-shadow: 0 5px 8px #8b0000;
+    text-transform: uppercase;
+    font-family: "Roboto Mono",monospace!important;     
+}
+.button-two{
+    background-color: transparent;
+    font-weight: 600;
+    color:white;    
+    outline: none;
+    border: 1px solid #fff;
+    border-radius: 3px;   
+    margin-left: 20px;
+    padding: 12px 50px;
+    margin-top: 20px;
+}
+.hero-btn-img {
+  height: 24px;
+  width: 24px;
+}
+.right-h-btn{
+    background: #c62828;    
+    border: 1px solid #c62828;
+    color: #fff;   
+      padding: 0.593rem 0.75rem;
+}
+.input-text{
+    background: #2d061b;    
+    border: 1px solid #c62828;
+    color: #fff;
+    padding: 0.375rem 0.75rem;
+    width: 70%;
+}
+.h-right-b{
+    width: 150px;
+    height: 38px;
+}
+.coursel-img{
+    height: 350px;
+    width: 250px;
+    margin: auto;
+}

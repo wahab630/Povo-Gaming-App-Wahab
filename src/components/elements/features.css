@@ -1,0 +1,50 @@
+.Features{
+    background-image: url('../../media/web.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.card-img{
+    width: 70px;
+    height: 66px;
+}
+.modal-header{
+    color: red;
+    background-color: black;
+}
+.modal-body{
+    color: white;
+    background-color: black;
+}
+
+.modal-footer{
+    color: white;
+    background-color: black;
+}
+.model{
+  color: black;
+  margin-top: 150px;
+   
+}
+.card-h{
+    color: #8b0000;
+}
+.card-p{
+    color: #777777;
+}
+.Features button {
+    text-align: center;
+    border: none;
+   
+    outline: none;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: transparent;
+    color: #ffc107;
+    
+}
+.myCard2{
+    background-color: #8b0000;
+}
