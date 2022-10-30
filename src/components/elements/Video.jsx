@@ -6,7 +6,9 @@ const Video = () => {
     <>
     <div className="container-fluid videobg">
     <div class="ratio ratio-16x9">
-    <iframe class="embed-responsive-item" src="https://povoneww.s3.ap-southeast-1.amazonaws.com/cs.mp4" allowfullscreen ></iframe>
+    <iframe class="embed-responsive-item"
+     src="https://povoneww.s3.ap-southeast-1.amazonaws.com/cs.mp4"
+     title='youtube' allowfullscreen ></iframe>
     </div>
     </div>
     </>
