@@ -7,7 +7,7 @@ const Roadmap = () => {
     <div className="roadmapbg ">
         <div className="container ">
             <div className="row ">
-                <img className='roadmap-img' src="https://povo-site.netlify.app/static/media/roadmap.bc226a8d.png" alt="no" />
+                <img className='roadmap-img' src="assets/roadmap.png" alt="no" />
             </div>
         </div>
     </div>

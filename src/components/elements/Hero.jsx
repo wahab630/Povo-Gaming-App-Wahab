@@ -28,7 +28,7 @@ const Hero = () => {
               <button class="hero-button">
                 <img
                   className="hero-btn-img"
-                  src="https://cryptologos.cc/logos/pancakeswap-cake-logo.png"
+                  src="assets/hb.png"
                   alt="no"
                 />{" "}
                 &nbsp; Trade on PancakeSwap
@@ -84,21 +84,21 @@ const Hero = () => {
                   <Carousel.Item>
                     <img
                       className="d-block text-center coursel-img"
-                      src="https://povo-site.netlify.app/static/media/NFT3.f7c6e745.png"
+                      src="assets/hero1.png"
                       alt="First slide"
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <img
                       className="d-block text-center coursel-img"
-                      src="https://povo-site.netlify.app/static/media/NFT2.ce0d0563.png"
+                      src="assets/hero2.png"
                       alt="Second slide"
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <img
                       className="d-block text-center  coursel-img"
-                      src="https://povo-site.netlify.app/static/media/NFT1.d7c5ef8c.png"
+                      src="assets/hero3.png"
                       alt="no"
                     />
                   </Carousel.Item>
@@ -117,21 +117,21 @@ const Hero = () => {
                   <div className="col">
                     <img
                       className="h-right-b"
-                      src="https://povo-site.netlify.app/certik.png"
+                      src="assets/certik.png"
                       alt="no"
                     />
                   </div>
                   <div className="col">
                     <img
                       className="h-right-b"
-                      src="https://povo-site.netlify.app/pcs.png"
+                      src="assets/pcs.png"
                       alt="no"
                     />
                   </div>
                   <div className="col">
                     <img
                       className="h-right-b"
-                      src="https://povo-site.netlify.app/xt.png"
+                      src="assets/xt.png"
                       alt="no"
                     />
                   </div>

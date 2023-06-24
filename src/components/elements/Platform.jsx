@@ -8,7 +8,7 @@ const Platform = () => {
         <div className="container pt-5">
           <div className="row section ">
             <div className="col-md-6">
-              <img className="platfoam-img" src="https://povo-site.netlify.app/static/media/stake.a753a95a.png" alt="no" />
+              <img className="platfoam-img" src="assets/laptop.png" alt="no" />
             </div>
             <div className="col-md-6">
               <div className="text-center">

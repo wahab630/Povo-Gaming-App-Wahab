@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="col-lg-5 d-flex">
               <img
                 className="footer-logo"
-                src="https://povo-site.netlify.app/static/media/NewLogo.0402fecf.png"
+                src="assets/logo.png"
                 alt="no"
               />
               <span className="p-2">

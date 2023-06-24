@@ -8,10 +8,10 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg  sticky-top">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            <img className="logo" src="https://povo-site.netlify.app/static/media/NewLogo.0402fecf.png" alt="not found" />
+            <img className="logo" src="assets/logo.png" alt="not found" />
           </Link>
           <button
-            className="navbar-toggler"
+            className="navbar-toggler bg-white"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -29,32 +29,32 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./login" className="nav-link ">
+                <Link to="/" className="nav-link ">
                  Staking
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./login" className="nav-link ">
+                <Link to="/" className="nav-link ">
                   Governance
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./login" className="nav-link ">
+                <Link to="/" className="nav-link ">
                   Tokenomics
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./signup" className="nav-link">
+                <Link to="/" className="nav-link">
                   Roadmap
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./signup" className="nav-link">
+                <Link to="/" className="nav-link">
                   Rugpul
                 </Link>
               </li>
               <li className="nav-item fw-bold">
-                <Link to="./signup" className="nav-link">
+                <Link to="/" className="nav-link">
                   FAQ
                 </Link>
               </li>

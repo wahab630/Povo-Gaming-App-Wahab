@@ -37,7 +37,7 @@ const Tokenomics = () => {
                 </ul>
                 </div>
                 <div className="col-md-6">
-                    <img className='token-img' src="https://povo-site.netlify.app/static/media/chart.bae4ea49.png" alt="no" />
+                    <img className='token-img' src="assets/chart.png" alt="no" />
                 </div>
  
             </div>

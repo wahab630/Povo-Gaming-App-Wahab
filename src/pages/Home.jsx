@@ -12,7 +12,6 @@ import Protected from '../components/elements/Protected'
 import Roadmap from '../components/elements/Roadmap'
 import Staking from '../components/elements/Staking'
 import Tokenomics from '../components/elements/Tokenomics'
-import Video from '../components/elements/Video'
 import Vision from '../components/elements/Vision'
 import Faqs from '../components/utils/Faqs'
 
@@ -25,7 +24,7 @@ const Home = () => {
     <Platform/>
     <Exclusive/>
     <Features/>
-    <Video/>
+   
     <Staking/>
 
     <Benefits/>

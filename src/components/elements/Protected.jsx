@@ -35,7 +35,7 @@ const Protected = () => {
             <div className="col-md-6 text-center">
               <img
                 className="protected-img"
-                src="https://povo-site.netlify.app/static/media/why.75179918.png"
+                src="assets/why.png"
                 alt="no"
               />
             </div>

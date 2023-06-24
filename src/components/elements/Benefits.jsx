@@ -28,7 +28,7 @@ const Benefits = () => {
               <h5  className="fw-bold">Withdraw funds using PayPal</h5>
             </div>
             <div className="col-md-6">
-              <img className="benefits-img" src="https://povo-site.netlify.app/static/media/benefit.568264db.png" alt="no" />
+              <img className="benefits-img" src="assets/benefit.png" alt="no" />
             </div>
           </div>
         </div>

@@ -8,7 +8,7 @@ const Mission = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 text-center mt-5">
-                <img className="mission-img" src="https://povo-site.netlify.app/static/media/mission.10a1f619.png" alt="no" />
+                <img className="mission-img" src="assets/mission.png" alt="no" />
             </div>
             <div className="col-md-6 mt-5">
               <h1 className="fw-bold">

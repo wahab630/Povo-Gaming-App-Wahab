@@ -7,7 +7,7 @@ const Staking = () => {
     <div className="container-fluid bg-staking ">
         <div className="container">
             <div className="row">
-                <img className='staking-img' src="https://povo-site.netlify.app/static/media/fc.3019888f.png" alt="no" />
+                <img className='staking-img' src="assets/staking.png" alt="no" />
             </div>
         </div>
     </div>

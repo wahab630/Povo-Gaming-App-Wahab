@@ -29,7 +29,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://uploads-ssl.webflow.com/60c7783699e1051d74062f79/60c92caf0644a6350eba414b_1.svg"
+                      src="assets/c1.svg"
                       alt="no"
                     />
                   </div>
@@ -63,7 +63,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://povo-site.netlify.app/static/media/h2.17c263d5.png"
+                      src="assets/c2.png"
                       alt="no"
                     />
                   </div>
@@ -97,7 +97,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://povo-site.netlify.app/static/media/h3.c5f8acdf.png"
+                      src="assets/c3.png"
                       alt="no"
                     />
                   </div>
@@ -133,7 +133,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://povo-site.netlify.app/static/media/h1.4f9f7525.png"
+                      src="assets/c4.png"
                       alt="no"
                     />
                   </div>
@@ -167,7 +167,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://povo-site.netlify.app/static/media/idea.d16413b8.svg"
+                      src="assets/c5.svg"
                       alt="no"
                     />
                   </div>
@@ -201,7 +201,7 @@ const Features = () => {
                   <div className="text-center">
                     <img
                       className="card-img"
-                      src="https://povo-site.netlify.app/static/media/h4.e66c6e38.png"
+                      src="assets/c6.png"
                       alt="no"
                     />
                   </div>
