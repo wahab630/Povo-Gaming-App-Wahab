@@ -13,3 +13,6 @@
     width: 30%;
     margin: auto;
 }
+.e-btn:hover{
+    background-color: rgba(255, 4, 4, 0.843);
+}

@@ -11,7 +11,7 @@ const Header = () => {
             <img className="logo" src="assets/logo.png" alt="not found" />
           </Link>
           <button
-            className="navbar-toggler bg-white"
+            className="navbar-toggler navColor "
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -59,7 +59,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <button className="btn fw-bold">Connect Wallet</button>
+                <button className="btn h-btn fw-bold">Connect Wallet</button>
               </li>
             </ul>
           </div>

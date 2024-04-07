@@ -1,21 +1,23 @@
-.navbar{
-    background-color: #2D061BFF;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.navbar {
+  background-color: #2d061bff;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
-.navbar a:hover{
-    color: rgba(255, 4, 4, 0.843);
+.navbar a:hover {
+  color: rgba(255, 4, 4, 0.843);
 }
-.logo{
-    height: 46px;
-    width: 40px;
+.h-btn:hover {
+  background-color: rgba(255, 4, 4, 0.843);
 }
-.navbar a{
-    font-size: 1rem;
-    text-transform: capitalize;
-    color: white;
+.logo {
+  height: 46px;
+  width: 40px;
 }
-.navbar a:active{
-    font-weight: bold;
-    border-bottom: 2px solid black;
+.navbar a {
+  font-size: 1rem;
+  text-transform: capitalize;
+  color: white;
+}
+.navColor {
+  background-color: rgb(59, 6, 34);
 }
