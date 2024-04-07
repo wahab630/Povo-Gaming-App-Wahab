@@ -22,16 +22,11 @@ const Features = () => {
         <div className="container">
           <h1 className="text-center fw-bold">Povo Features</h1>
           <div className="row mt-5 d-flex ">
-            
             <div className="col-sm-4 ">
               <div className="card myCard1 mb-2">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c1.svg"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c1.svg" alt="no" />
                   </div>
                   <h4 className="fw-bold card-h text-center pb-2 pt-3">
                     In-game items <br /> crafting
@@ -55,17 +50,12 @@ const Features = () => {
                   </div>
                 </div>
               </div>
-              
             </div>
             <div className="col-sm-4 ">
               <div className="card myCard2 mb-2">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c2.png"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c2.png" alt="no" />
                   </div>
                   <h4 className="fw-bold text-center  pb-2 pt-3">
                     Cross chain interpretability &amp; custom wallet
@@ -95,11 +85,7 @@ const Features = () => {
               <div className="card myCard1 mb-2   ">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c3.png"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c3.png" alt="no" />
                   </div>
                   <h4 className="fw-bold card-h text-center pb-2 pt-3">
                     Multiverse <br /> gaming
@@ -131,11 +117,7 @@ const Features = () => {
               <div className="card myCard2 mb-2">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c4.png"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c4.png" alt="no" />
                   </div>
                   <h4 className="fw-bold text-center  pb-2 pt-3">
                     Tokenize character <br /> items
@@ -165,11 +147,7 @@ const Features = () => {
               <div className="card myCard1 mb-2">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c5.svg"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c5.svg" alt="no" />
                   </div>
                   <h4 className="fw-bold card-h text-center pb-2 pt-3">
                     Gamer/devs can introduce their own token
@@ -199,11 +177,7 @@ const Features = () => {
               <div className="card myCard2 ">
                 <div className="card-body">
                   <div className="text-center">
-                    <img
-                      className="card-img"
-                      src="assets/c6.png"
-                      alt="no"
-                    />
+                    <img className="card-img" src="assets/c6.png" alt="no" />
                   </div>
                   <h4 className="fw-bold text-center  pb-2 pt-3">
                     Dapp Store and game studio integration
@@ -226,13 +200,9 @@ const Features = () => {
                     </Button>
                     {/* modal start */}
 
-                    <Modal
-                      className="model"
-                      show={show}
-                      onHide={handleClose}
-                    >
-                      <Modal.Header closeButton>
-                        <Modal.Title>{modalHeading}</Modal.Title>
+                    <Modal className="model" show={show} onHide={handleClose}>
+                      <Modal.Header  closeButton>
+                        <Modal.Title>{modalHeading}</Modal.Title>                        
                       </Modal.Header>
                       <Modal.Body>{modalBody}</Modal.Body>
                       <Modal.Footer></Modal.Footer>

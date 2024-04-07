@@ -3,7 +3,6 @@ import Faq from "react-faq-component";
 import './faqs.css'
 
 const data = {
-  
   rows: [
     {
       title: "HOW TRANSACTIONS CAN BE PERFORMED?",

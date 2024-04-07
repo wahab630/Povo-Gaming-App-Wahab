@@ -6,15 +6,26 @@
     opacity: 0.9;
 }
 .live-btn{
-   background-color: black;
+   background-color: #8b0000;
     padding: 7px 15px;   
     box-shadow: none;
-    color: #8b0000;
+    color: white;
     border-radius: 10px;
     font-weight: 600;
     margin-top: 15px;
     border: none;
 }
+.live-btn:hover{
+   background-color: black;
+    padding: 7px 15px;   
+    box-shadow: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-top: 15px;
+    border: none;
+}
+
 .live-h4{
     font-size: 32px;
     font-weight: bold;
@@ -22,4 +33,7 @@
 .live-pd{
     padding-top: 100px;
     padding-bottom: 100px;
+}
+.modal-header .btn-close{
+    background-color: white;
 }

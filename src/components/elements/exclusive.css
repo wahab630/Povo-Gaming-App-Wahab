@@ -1,18 +1,17 @@
-.exclusive{
-    background-image: url('../../media/protectedbg.png');
-    background-size: cover;
-    
-    background-position: center;
-   
+.exclusive {
+  background-image: url("../../media/protectedbg.png");
+  background-size: cover;
+
+  background-position: center;
 }
-.multi-img{
-    width: 250px;
-    height: 350px;
+.multi-img {
+  width: 250px;
+  height: 350px;
 }
-.e-btn{
-    width: 30%;
-    margin: auto;
+.e-btn {
+  width: 30%;
+  margin: auto;
 }
-.e-btn:hover{
-    background-color: rgba(255, 4, 4, 0.843);
+.e-btn:hover {
+  background-color: rgba(255, 4, 4, 0.843);
 }

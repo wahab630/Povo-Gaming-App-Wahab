@@ -36,15 +36,25 @@
 }
 .Features button {
     text-align: center;
-    border: none;
-   
+    border: none;   
     outline: none;
     font-weight: 600;
     font-size: 20px;
     background-color: transparent;
-    color: #ffc107;
-    
+    color: #ffc107;    
+}
+.Features button:hover {
+    text-align: center;
+    border: none;   
+    outline: none;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: transparent;
+    color: #ffc107;    
 }
 .myCard2{
     background-color: #8b0000;
+}
+.modal-header .btn-close{
+    background-color: white;
 }
